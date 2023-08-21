@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import styled from 'styled-components';
 
-// Definiujemy styled components
+//styled components:
 const ProfileWrapper = styled.div`
   border: 1px solid #ccc;
   padding: 20px;
